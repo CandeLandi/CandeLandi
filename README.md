@@ -9,7 +9,7 @@ Me formé como Técnica en Comunicación Multimedial, lo que me permite tener un
 Soy proactiva, alegre, disfruto el trabajo en equipo y busco aprender y crecer constantemente.
 
 ## 🚀 ¿Qué hago?
-💼 Actualmente trabajando como Frontend Developer  
+💼 Actualmente trabajando como Frontend Angular Developer  
 🌟 Especializada en desarrollo con Angular  
 🎨 Enfocada en crear experiencias web modernas, limpias y responsivas  
 📚 Apasionada por seguir aprendiendo y perfeccionando mis habilidades  
