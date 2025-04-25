@@ -1,16 +1,24 @@
-## Hi there 👋
+# 🙋🏽‍♀️ ¡Hola! Soy Candela Landi
 
-<!--
-**CandeLandi/CandeLandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 Sobre mí
+Frontend Developer enfocada en Angular y en la construcción de interfaces claras, modernas y funcionales.  
+Tengo conocimientos de backend con Node.js (NestJS y ExpressJS) y una base sólida en diseño gráfico y multimedia.
 
-Here are some ideas to get you started:
+Me formé como Técnica en Comunicación Multimedial, lo que me permite tener una mirada integral entre el diseño y el desarrollo web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy proactiva, alegre, disfruto el trabajo en equipo y busco aprender y crecer constantemente.
+
+## 🚀 ¿Qué hago?
+💼 Actualmente trabajando como Frontend Developer  
+🌟 Especializada en desarrollo con Angular  
+🎨 Enfocada en crear experiencias web modernas, limpias y responsivas  
+📚 Apasionada por seguir aprendiendo y perfeccionando mis habilidades  
+🤝 Colaborando en proyectos que buscan generar impacto real
+
+## 🛠️ Tech Stack
+```ts
+const skills = {
+  frontend: ['Angular', 'TypeScript', 'Tailwind CSS', 'HTML5', 'CSS3'],
+  backend: ['Node.js', 'NestJS', 'ExpressJS'],
+  tools: ['Git', 'Figma', 'Photoshop', 'Illustrator'],
+};
